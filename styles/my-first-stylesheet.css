@@ -48,23 +48,24 @@ img {
 }
 
 */
-.article {
-  padding: 3rem;
-  background-color: lightblue;
-  width: 50%;
-  margin:auto
-}
-
-.aside p {
-  font-family: "Comic Sans MS", cursive, sans-serif
-}
-
-.aside {
-  height: 20rem;
+aside{
+ height: 10rem;
   background-color: antiquewhite;
-  width: 30%;
-  margin:auto
+  margin: auto;
+  width: 25%;
 }
+
+.aside p{
+  font-family: "Verdana"; 
+}
+
+.article{
+  padding: 5rems;
+  background-color: aqua;
+  margin:auto;
+  width: 50%
+}
+
 
 
 
