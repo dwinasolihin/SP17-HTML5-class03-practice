@@ -1,4 +1,6 @@
+
 /* 16px == 1rem */
+/*
 html { font-size: 16px; }
 
 img {
@@ -27,7 +29,8 @@ img {
   background-color: yellow;
 }
 
-/* nested selector -- selects <p> inside .document-history */
+ /*nested selector -- selects <p> inside .document-history */
+/*
 .document-history p {
   width: 50%;
 }
@@ -43,3 +46,28 @@ img {
 .highlight {
   background-color: salmon;
 }
+
+*/
+.aside{
+  height: 10rem;
+  background-color: antiquewhite;
+  margin: auto;
+  width: 25%;
+}
+
+.aside p{
+  font-family: "Verdana"; 
+}
+
+.article{
+  padding: 5rems;
+  background-color: aqua;
+  margin:auto;
+  width: 50%
+}
+
+
+
+
+
+
